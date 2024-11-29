@@ -1,0 +1,9 @@
+{
+    "income": 10000,
+    "distribution":{
+        "Fix Cost": 5065,
+        "Savings": 2000,
+        "Investments": 2000,
+        "Free Spending": 935
+    }
+}
