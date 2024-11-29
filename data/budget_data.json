@@ -1,7 +1,19 @@
 {
     "income": 10000,
     "distribution":{
-        "Fix Cost": 5065,
+        "Fix Cost": {
+            "Groceries": 1400,
+            "Rent": 2440,
+            "Electricity": 100,
+            "RAA": 123,
+            "Bupa": 252,
+            "Gas": 80,
+            "Comunication": 115,
+            "Water": 50,
+            "Car Mainten": 100,
+            "Petrol": 240,
+            "Gym": 165
+        },
         "Savings": 2000,
         "Investments": 2000,
         "Free Spending": 935
