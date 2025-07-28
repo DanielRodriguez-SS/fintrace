@@ -1,0 +1,33 @@
+[
+    {
+        "Cash": {
+            "Emergency Fund": 10000, 
+            "Opportunity Fund": 500,
+            "CDIA": 2262.26
+        },
+        "Investments": {
+            "Shares": 9000,
+            "Crypto": 10000
+        },
+        "Assets": {
+            "Car": 22000,
+            "Land": 93000
+        }
+    },
+    {
+        "Cash": {
+            "Emergency Fund": 13977.50,
+            "Opportunity Fund": 536.13,
+            "CDIA": 2262.26
+        },
+        "Investments": {
+            "Shares": 7113.50,
+            "Crypto": 9289.77
+        },
+        "Assets": {
+            "Car": 22000,
+            "Land": 94000,
+            "Business Equity": 5199
+        }
+    }
+]

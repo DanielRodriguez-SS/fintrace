@@ -1,0 +1,19 @@
+{
+    "Fixed Expenses": {
+        "Rent": 2448.33,
+        "Insurance": 261.77,
+        "Telco": 161.77,
+        "Car Maintenance": 100,
+        "Gym Membership": 84,
+        "Free Expending": 935 
+    },
+    "Variable Living Cost": {
+        "Groceries": 1800,
+        "Transport": 520,
+        "Electricity and Gas": 380
+    },
+    "Savings and Investments": {
+        "Emergency Fund": 1000,
+        "Shares": 1000
+    }
+}
